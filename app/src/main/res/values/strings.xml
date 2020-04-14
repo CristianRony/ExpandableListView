@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+<!--FICHA DE MONITOREO A LAS II.EE. SOBRE EL BIAE-->
+    <string name="compromiso01_name">01. Asistencia de directivos</string>
+    <string name="p1">1.¿El director está presente en la IE?</string>
+    <string name="p2">2.EL director presente es el mismo que figura en los datos generales</string>
+
+    <string name="compromiso02_name">02. Plazas docentes contratadas</string>
+    <string name="pr1">1.¿La I.E. ha cubierto todas sus plazas docentes? </string>
+    <string name="pr2">2.¿Algún docente de su I.E. ha renunciado a su contrato?</string>
+    <string name="pr3">3.¿Algún docente de su I.E. ha solicitado licencia a partir del 16 de marzo?</string>
+    <string name="pr4">4.¿El servicio educativo cuenta con un profesional en psicología?</string>
+</resources>
